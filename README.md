@@ -1,4 +1,4 @@
-![Header](./header-image.png)
+![Header](./Header-image.png)
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmczZnFyM21wb2xrYWZuc3JzNHpyeDJpaGR4c2ViejE1cGFsbjA0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGhpQ5NMoWKQurlHwI/giphy.gif" style="width:100%;height:0;padding-bottom:100%;position:relative;" width="400" align="right" alt="Coding">
 
